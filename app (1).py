@@ -170,9 +170,9 @@ if st.session_state.logged_in:
     st.markdown("""
     <div class='chaos-text' style='text-align:center; margin-top:16px;'>
         🐍 Known facts about Mahrang:<br>
-        • Will steal your fries without asking<br>
-        • Has never returned a single borrowed item<br>
-        • Calls you at 2am for "a quick question"<br>
+        • she has a memory of a goldfish<br>
+        • She forgets everysingle item<br>
+        • Calls you at 2am for "a quick question" and says Yaani<br>
         • The definition of a menace to society<br><br>
         <em>...but we love her anyway 💅</em>
     </div>
